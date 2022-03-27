@@ -1,0 +1,46 @@
+.centroinfo{
+    text-align: center;
+}
+body{
+
+
+    margin:0 auto;
+    background-image: url("/imagen/fondo2.jpg");
+    background-size: 100%;
+    background-repeat: round;
+
+}
+
+section{
+    
+
+    margin:10px 30px 40px 30px;
+    background-color:rgba(243,255,243,0.2);
+    border-radius: 30px;
+}
+
+
+
+div h1{
+
+    background-image:url("/imagen/banner.jpg");;
+    font-size: 4rem;
+    padding: 1rem 2rem;
+    border-radius: 30px;
+    border: 2px black solid;
+    text-align: center;
+
+}
+
+section{
+    
+
+    margin:10px 30px 40px 30px;
+    background-color:rgba(243,255,243,0.2);
+    border-radius: 30px;
+}
+
+.accordion{
+    margin: 5%;
+
+}
