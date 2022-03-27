@@ -3,9 +3,14 @@
 }
 body {
     background-image: url("IMG/fondo2posible.jpg")  ;
-    padding-left: 15%;
+    /*padding-left: 15%;
     padding-right: 25%;
-    padding-top: 5%;
-    background-attachment: fixed;
-    background-position: center;
+    padding-top: 5%;*/
+    margin: 0 auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.accordion{
+    margin: 5%;
+
 }
