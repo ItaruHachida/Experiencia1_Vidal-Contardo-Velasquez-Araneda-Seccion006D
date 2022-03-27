@@ -1,0 +1,80 @@
+body{
+
+
+    margin:0 auto;
+    background-image: url("/imagen/fondo2.jpg");
+    background-size: 100%;
+    background-repeat: round;
+
+}
+
+section{
+    
+
+    margin:10px 30px 40px 30px;
+    background-color:rgba(243,255,243,0.2);
+    border-radius: 30px;
+}
+
+
+
+div h1{
+
+    background-image:url("/imagen/banner.jpg");;
+    font-size: 4rem;
+    padding: 1rem 2rem;
+    border-radius: 30px;
+    border: 2px black solid;
+    text-align: center;
+
+}
+
+nav{
+    border-radius: 30px;
+    border: 2px black solid;
+
+}
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;    
+}
+
+.row{
+
+    margin: 0px 10px 10px 10px;
+    padding: 10px;
+
+}
+
+.carouselExampleControls{
+
+    margin: 30px 100px 30px 100px;
+/*     padding: 40px 40px 40px 40px; */
+
+}
+.carousel-control-prev{
+
+    margin:50px 30px 40px 250px;
+    color: yellow;
+}
+
+.carousel-control-next{
+
+    margin:50px 350px 40px 300px;
+    color: yellow;
+}
+
+div p{
+
+    background-color:rgba(243,255,243,0.7);
+    border-radius: 30px;
+    border: 2px black solid;
+    text-align: center;
+
+}
+
+footer{
+
+    background-color: aquamarine;
+}
