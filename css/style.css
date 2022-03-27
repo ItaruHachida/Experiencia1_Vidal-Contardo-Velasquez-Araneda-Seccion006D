@@ -1,6 +1,8 @@
 .centroinfo{
     text-align: center;
 }
+
+/* css para que el standar de la pagina, no influye en el contenido */
 body{
 
 
@@ -39,6 +41,19 @@ section{
     background-color:rgba(243,255,243,0.2);
     border-radius: 30px;
 }
+
+nav{
+    border-radius: 30px;
+    border: 2px black solid;
+
+}
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;    
+}
+/* 
+termina aqui */
 
 .accordion{
     margin: 5%;
