@@ -1,0 +1,61 @@
+.centroinfo{
+    text-align: center;
+}
+
+/* css para que el standar de la pagina, no influye en el contenido */
+body{
+
+
+    margin:0 auto;
+    background-image: url("/imagen/fondo2.jpg");
+    background-size: 100%;
+    background-repeat: repeat;
+
+}
+
+section{
+    
+
+    margin:10px 30px 40px 30px;
+    background-color:rgba(243,255,243,0.2);
+    border-radius: 30px;
+}
+
+
+
+div h1{
+
+    background-image:url("/imagen/banner.jpg");;
+    font-size: 4rem;
+    padding: 1rem 2rem;
+    border-radius: 30px;
+    border: 2px black solid;
+    text-align: center;
+
+}
+
+section{
+    
+
+    margin:10px 30px 40px 30px;
+    background-color:rgba(243,255,243,0.2);
+    border-radius: 30px;
+}
+
+nav{
+    border-radius: 30px;
+    border: 2px black solid;
+
+}
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;    
+}
+/* 
+termina aqui */
+
+.accordion{
+    margin: 5%;
+
+}
