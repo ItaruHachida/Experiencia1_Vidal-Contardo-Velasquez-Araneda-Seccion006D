@@ -1,3 +1,10 @@
+
+
+#galerias  img:hover{
+    border: 5px solid #f7f7f7;
+
+}
+
 #hello{
     text-align: center;
 }
@@ -7,9 +14,11 @@
 }
 
 .card-img-top{
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
+
 }
+
 
 /* css del niko */
 
