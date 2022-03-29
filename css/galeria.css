@@ -6,6 +6,12 @@
     margin: auto;
 }
 
+.card-img-top{
+    width: 400px;
+    height: 400px;
+
+}
+
 /* css del niko */
 
 body{
